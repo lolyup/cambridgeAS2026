@@ -7,7 +7,6 @@ A specialized academic tracking and resource platform designed for students in A
 ## Mobile View
   https://github.com/user-attachments/assets/069eebd8-2861-4af6-948d-a7970df297bf
 ## Core Features
-
   * **Zone-Specific Examination Tracker:** Real-time countdowns for paper-specific variants (Zone 4) including Mathematics (9709), Physics (9702), Chemistry (9701), and Computer Science (9618).
   * **Dynamic Syllabus Integration:** Interactive modals that fetch and display bolded subtopics and paper-specific requirements directly from the dashboard.
   * **Curated Resource Repository:** A centralized hub linking to a comprehensive archive of past papers and marking schemes (2000–2025).
@@ -22,7 +21,13 @@ The platform is engineered for speed, reliability, and zero-cost maintenance:
   * **Serverless Deployment:** Hosted 24/7 via **Firebase Hosting**. The deployment utilizes a global CDN and custom URL rewriting (`firebase.json`) to handle clean routing without a backend server.
   * **Zero-Cost Infrastructure:** By leveraging Firebase's static hosting tier and externalized resource linking, the website operates with 100% uptime at no operational expense.
   * **Localized Logic:** The countdown engine is hardcoded to Pakistan Standard Time (UTC+5) to ensure precise timing for local candidates.
+## Community Impact & Outreach
 
+  **Built a targeted platform serving AS-level candidates in Pakistan (Zone 4), addressing the lack of localized exam tooling**
+  **Achieved 90+ organic users with repeat engagement (238 sessions), demonstrating real adoption within a niche academic community**
+  **Enabled efficient revision workflows through structured access to past papers, syllabus data, and exam timelines**
+  **Actively improving study accessibility and organization for students preparing under time-constrained exam conditions**
+  **Focus on high-utility design, prioritizing function over aesthetics to maximize academic effectiveness**
 ## Development
 
 The project is an independent educational initiative developed to streamline the revision workflow for private and school-based candidates.
