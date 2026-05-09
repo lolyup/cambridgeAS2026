@@ -24,7 +24,7 @@ The platform is engineered for speed, reliability, and zero-cost maintenance:
 ## Community Impact & Outreach
 
   **Built a targeted platform serving AS-level candidates in Pakistan (Zone 4), addressing the lack of localized exam tooling**
-  **Achieved 90+ organic users with repeat engagement (238 sessions), demonstrating real adoption within a niche academic community**
+  **Achieved 150+ organic users with repeat engagement (600 sessions), demonstrating real adoption within a niche academic community**
   **Enabled efficient revision workflows through structured access to past papers, syllabus data, and exam timelines**
   **Actively improving study accessibility and organization for students preparing under time-constrained exam conditions**
   **Focus on high-utility design, prioritizing function over aesthetics to maximize academic effectiveness**
